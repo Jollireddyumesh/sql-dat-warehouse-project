@@ -32,13 +32,6 @@ This project involves:
 - Data Modeling  
 - Data Analytics  
 
----
-
-## 🛠️ Important Links
-
-Everything is for Free!
-- **[Datasets](datasets/):** Access to the project dataset (csv files).
-
 ## 🚀 Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
